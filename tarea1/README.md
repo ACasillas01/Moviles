@@ -1,16 +1,26 @@
-# tarea1
+# Mc Flutter App
 
-A new Flutter project.
+- Scaffold
+- Widgets mas comunes
 
-## Getting Started
+## Lo que me costó más trabajo
+- Uso de estados (States)
+- Uso de la propiedad "const"
 
-This project is a starting point for a Flutter application.
+## Lo que aprendí
+- Uso de propiedades dee widget
+- Uso de condiciones en Dart
+- Manejo de proyecto de Flutter
+- Propiedad children
 
-A few resources to get you started if this is your first Flutter project:
+## Descripción de la App
+Esta app muestra una tarjeta de información, además de tener iconos interactivos que, al recibir un click,
+cambian de color entre negro e indigo.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
+![Screenshots Folder](https://drive.google.com/drive/folders/1zn_ZH2MokpKu9KYEDpMrowQV1Rz-R947?usp=drive_link)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Referencias
+IconButton Class - Material Library - DART API. (s. f.). https://api.flutter.dev/flutter/material/IconButton-class.html
+Icon Class - Widgets Library - Dart API. (s. f.). https://api.flutter.dev/flutter/widgets/Icon-class.html
+Scaffold Class - Material Library - DART API. (s. f.). https://api.flutter.dev/flutter/material/Scaffold-class.html
