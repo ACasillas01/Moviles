@@ -17,7 +17,10 @@
 Esta app muestra una tarjeta de información, además de tener iconos interactivos que, al recibir un click,
 cambian de color entre negro e indigo.
 
-## ![IMG1](image1.png)
+## Screenshots
+![IMG1](image1.png)
+![IMG2](image2.png)
+![IMG3](image3.png)
 
 ## Referencias
 IconButton Class - Material Library - DART API. (s. f.). https://api.flutter.dev/flutter/material/IconButton-class.html
